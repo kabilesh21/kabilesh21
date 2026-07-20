@@ -28,11 +28,6 @@
     <img src="https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="GitHub Repos" />
   </a>
 
-  <br/><br/>
-
-  <!-- PROFILE VIEWS -->
-  <img src="https://komarev.com/ghpvc/?username=kabilesh21&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 <br/>
@@ -120,10 +115,17 @@ Location   : Tiruppur, Tamil Nadu, India
 
 ---
 
-## 📈 Activity & Contributions
+## 🔥 Commit Streak & Code Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilesh21&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Kabilesh Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilesh21&theme=cyberpunk&hide_border=true" width="97%" alt="Kabilesh Commit Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabilesh21&theme=cyberpunk" width="48%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabilesh21&theme=cyberpunk" width="48%" alt="Languages breakdown" />
 </div>
 
 <br/>
