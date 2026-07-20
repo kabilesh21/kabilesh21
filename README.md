@@ -85,13 +85,13 @@ Internship  : Ex-Virtual Intern @ Infosys Springboard 6.0
       <p><b>Tech Stack:</b> <code>Python</code> <code>NLP</code> <code>Pandas</code> <code>NumPy</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 Sentiment Matrix — Movie Review Engine</h3>
-      <p><i>Ongoing Web Application</i></p>
+      <h3>🌱 <a href="https://github.com/kabilesh21/Gamified-Environmental-Education">Gamified Environmental Education</a></h3>
+      <p><i>Interactive Web Application</i></p>
       <ul>
-        <li>Developing a responsive web portal analyzing user movie reviews into Positive, Negative, or Neutral sentiment classifications.</li>
-        <li>Integrates NLP classifier models with a dynamic web frontend.</li>
+        <li>Built an interactive learning platform with courses, quizzes, XP reward system, badges, coins, and certificates to drive eco-awareness.</li>
+        <li>Engages users to grow environmental knowledge while tracking gamified achievements.</li>
       </ul>
-      <p><b>Tech Stack:</b> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Python</code></p>
+      <p><b>Tech Stack:</b> <code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>Web App</code></p>
     </td>
   </tr>
 </table>
