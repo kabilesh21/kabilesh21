@@ -11,7 +11,7 @@
 
   <br/><br/>
 
-  <!-- CUSTOM GLOWING ACTION BUTTONS -->
+  <!-- GLOWING ACTION BUTTONS -->
   <a href="https://www.linkedin.com/in/kabilesh-m-185a21377" target="_blank">
     <img src="https://img.shields.io/badge/Connect_On_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
   </a>
@@ -28,6 +28,11 @@
     <img src="https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=24292e" alt="GitHub Repos" />
   </a>
 
+  <br/><br/>
+
+  <!-- PROFILE VIEWS -->
+  <img src="https://komarev.com/ghpvc/?username=kabilesh21&color=00f2fe&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </div>
 
 <br/>
@@ -37,7 +42,7 @@
 ## ⚡ `system.init()`
 
 ```sys
-┌──(kabilesh㉿developer)-[~]
+┌──(kabilesh@developer)-[~]
 └─$ cat profile.conf
 
 Degree     : B.Tech Information Technology (2024 - 2028)
@@ -115,17 +120,10 @@ Location   : Tiruppur, Tamil Nadu, India
 
 ---
 
-## 📊 Activity Metrics
+## 📈 Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabilesh21&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabilesh21&layout=compact&theme=cyberpunk&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilesh21&theme=cyberpunk&hide_border=true" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilesh21&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Kabilesh Activity Graph" />
 </div>
 
 <br/>
