@@ -115,17 +115,10 @@ Location   : Tiruppur, Tamil Nadu, India
 
 ---
 
-## 🔥 Commit Streak & Code Metrics
+## 🔥 Commit Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabilesh21&theme=cyberpunk&hide_border=true" width="97%" alt="Kabilesh Commit Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kabilesh21&theme=cyberpunk" width="48%" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kabilesh21&theme=cyberpunk" width="48%" alt="Languages breakdown" />
 </div>
 
 <br/>
